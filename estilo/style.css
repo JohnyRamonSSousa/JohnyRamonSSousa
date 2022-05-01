@@ -3,4 +3,51 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(248, 250, 252);
 }
+.sidebar{
+    position: fixed;
+    width: 250px;
+    left: 0;
+    background-color: rgb(34, 32, 32);
+    height: 100%;
+}
+
+.sidebar .logo{
+    font-size: 25px;
+    color: rgb(243, 241, 245);
+    font-weight: 600;
+    line-height: 65px;
+    text-align: center;
+    background-color: rgb(95, 93, 93);
+    letter-spacing: 1px;
+}
+
+nav ul{
+    background-color: rgb(34, 32, 32);
+    height: 100%;
+    width: 100%;
+    list-style: none;
+}
+nav ul li{
+    line-height: 60px;
+    border-bottom: 1px solid rgb(63, 60, 60);
+}
+
+nav ul li a{
+    color: rgb(231, 235, 235);
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 40px;
+    font-weight: 500;
+    display: block;
+    width: 100%;
+    border-left: 3px solid tra;
+}
+nav ul li a:hover{
+    color: cyan;
+    border-right-color: blue;
+    background-color: rgb(68, 66, 66);
+    
+}
+
