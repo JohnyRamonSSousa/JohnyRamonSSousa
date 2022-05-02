@@ -46,8 +46,26 @@ nav ul li a{
 }
 nav ul li a:hover{
     color: cyan;
-    border-right-color: blue;
     background-color: rgb(68, 66, 66);
+    border-left-color: red;
     
+}
+nav ul ul {
+    position: static;
+    display: none;
+}
+nav ul ul li{
+    line-height: 42px;
+    border-bottom: none;
+}
+nav ul ul li a{
+    font-size: 17px;
+    color: rgb(197, 202, 202);
+    padding-left: 80px;
+}
+nav ul li a span{
+    position: absolute;
+    top: 50px;
+    right: 20px;font-size: 100px;
 }
 
