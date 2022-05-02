@@ -11,26 +11,29 @@
 </head>
 <body>
 
+<div class="btn">
+    <span class="fas fa-bars"></span>
+</div>
 
 <nav class="sidebar">
 
     <div class="logo">Logo</div>
     <ul>
         <li><a href="#">Home</a></li>
-        <li><a href="#">Produto
-            <span class="fas fa-caret-down"></span>
+        <li><a href="#" class="feat-btn">Produto
+            <span class="fas fa-arrow-down first"></span>
         </a>
-            <ul>
+            <ul class="feat-show">
                 <li><a href="#">Pagamento</a></li>
                 <li><a href="#">Fatura</a></li>
                 <li><a href="#">2 via</a></li>
             </ul>
         </li>
 
-        <li><a href="#">Serviços
-            <span class="fas fa-caret-down"></span>
+        <li><a href="#" class="serv-btn">Serviços
+        <span class="fas fa-arrow-down second"></span>           
         </a>
-        <ul>
+        <ul class="ser-show">
             <li><a href="#">app</a></li>
             <li><a href="#">site</a></li>
         </ul>
@@ -48,6 +51,20 @@
     
 </nav>
 
+<script>
+    $('.btn').click(function(){
+        $(this).toggleClass("click");
+        $('.sibedar').toggleClass("show");
+    })
+$('.feat-btn').click(function(){
+    $('nav ul .feat-show').toggleClass("show");
+    $('nav ul .first').toggleClass("rotate");
+});
+
+$('.serv-btn').click(function(){
+    $('nav ul .serv-show').toggleClass("show");
+});
+</script>
     
 </body>
 </html>
