@@ -16,6 +16,13 @@
    	
 </div>
   
+  <div align="left">
+  <h2>🏀 Hobby</h2>
+    <li>Basquete</li>
+    <li>Mercado Financeiro</li>
+    <li>Vinhos</li>
+</div>
+  
   
   
   <div align="center">
