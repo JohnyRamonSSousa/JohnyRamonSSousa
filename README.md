@@ -23,7 +23,7 @@
     <li>Futebol</li>
 </div>
   
-  https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+  https://github-readme-stats.vercel.app/api/top-langs/?JohnyRamonSSousa={JohnyRamonSSousa}&theme=blue-green
   
   
   
