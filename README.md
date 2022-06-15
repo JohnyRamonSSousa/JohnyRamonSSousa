@@ -37,4 +37,5 @@
      </p>
     
      https://github-readme-stats.vercel.app/api/top-langs/?JohnyRamonSSousa={JohnyRamonSSousa}&theme=blue-green
+    https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
 </div>
