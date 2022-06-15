@@ -36,16 +36,7 @@
       <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
      </p>
     
-    <p align="center">
-  <a href="https://github.com/JohnyRamonSSousa
-/">
-    <img height="180em" alt="JohnyRamonSSousa
- stats" src="https://[github-readme-stats.vercel.app/api?username=JohnyRamonSSousa](https://github.com/JohnyRamonSSousa/JohnyRamonSSousa/blob/main/README.md)
-&show_icons=true&bg_color=DEG,555555,9e7d57&theme=react" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyRamonSSousa
-&layout=compact&theme=react&line_height=27&bg_color=DEG,555555,9e7d57" style="max-width:100%;">
-  </a>
-</p>
+  
     
    
 </div>
