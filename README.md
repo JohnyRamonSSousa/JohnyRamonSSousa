@@ -23,9 +23,6 @@
     <li>Futebol</li>
 </div>
   
-  https://github-readme-stats.vercel.app/api/top-langs/?JohnyRamonSSousa={JohnyRamonSSousa}&theme=blue-green
-  
-  
   
   <div align="center">
     <h2>📑 Habilidades</h2>
@@ -38,4 +35,6 @@
       <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
       <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
      </p>
+    
+     https://github-readme-stats.vercel.app/api/top-langs/?JohnyRamonSSousa={JohnyRamonSSousa}&theme=blue-green
 </div>
