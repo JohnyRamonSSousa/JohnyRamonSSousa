@@ -3,11 +3,7 @@
 - 🔭 Hoje estudo com front-end
 
 
-<div>
-  <a href="https://beacons.ai/johnyRamonssousa">
-  
- 
-</div>
+
 
 <div style="display: inline_block"><br>
  
