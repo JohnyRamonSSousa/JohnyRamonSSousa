@@ -31,8 +31,8 @@
       <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
      </p>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmanuel)](https://github.com/matheusmanuel/github-readme-stats)
-![matheusmanuel](https://github-readme-stats.vercel.app/api?username=matheusmanuel&show_icons=true&theme=default)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyRamonSSousa)](https://github.com/JohnyRamonSSousa/github-readme-stats)
+![matheusmanuel](https://github-readme-stats.vercel.app/api?username=JohnyRamonSSousa&show_icons=true&theme=default)
     
   
     
