@@ -38,9 +38,9 @@
  
 
 
-<div align="left">
+<div flex-direction: column;>
     <h2>Tecnologias Para Aprender</h2>
-    <p flex-diretion="row">
+    <p display: "flex">
       <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
       <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
       <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
