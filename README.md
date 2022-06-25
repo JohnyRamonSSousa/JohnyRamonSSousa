@@ -35,7 +35,7 @@
 ![JohnyRamonSSousa](https://github-readme-stats.vercel.app/api?username=JohnyRamonSSousa&show_icons=true&theme=default)
   
  
- <h2>Alvos para aprender<h2>
+ <h2>Tecnologias Para Aprender<h2>
     
    
 </div>
