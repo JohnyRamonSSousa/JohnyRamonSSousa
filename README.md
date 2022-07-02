@@ -17,6 +17,7 @@
     <li>Violino</li>
     <li>Treinamento Físico</li>
     <li>Futebol</li>
+    <li>Tecnologia</li>
 </div>
   
   
