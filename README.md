@@ -23,7 +23,8 @@
   
   
   <div align="center">
-    <h2>📑 Habilidades</h2>
+    <h2>📑 
+Skills</h2>
     <p align="center">
       <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
       <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,7 +42,8 @@
 
 
 <div flex-direction: column;>
-    <h2>Tecnologias Para Aprender</h2>
+    <h2>
+Technologies to Learn</h2>
     <p display: "flex">
       <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
       <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
