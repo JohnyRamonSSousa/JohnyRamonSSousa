@@ -1,6 +1,6 @@
 ## Olá! Eu sou JohnyRamonSSousa
 
-- 🔭 Hoje estudo com front-end
+
 
 
 
